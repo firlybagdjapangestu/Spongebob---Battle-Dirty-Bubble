@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd87f8c6cd550714380911138b708eb1, type: 3}
+  m_Name: New Rocket Attack SO
+  m_EditorClassIdentifier: 
+  rocketPrefab: {fileID: 7807733783034121657, guid: 84e6d2a26f8692b4caee8e5fd321f1f2, type: 3}
+  passiveRocketPrefab: {fileID: 1225180796739616060, guid: d0c10bd830b2a3c42ab0f8456e892361, type: 3}
+  lockOnTime: 1
+  launchDelay: 0.5
+  targetFlyHeight: 10

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa83e75d22c5a0d41842c7429483cbd0, type: 3}
+  m_Name: New Eagle Attack SO
+  m_EditorClassIdentifier: 
+  ascendHeight: 30
+  ascendSpeed: 10
+  diveDelay: 1.5
+  diveSpeed: 40
+  shadowPrefab: {fileID: 3280519133390621005, guid: a71be3e7990efb040a07565c43cbb198, type: 3}
+  impactVFX: {fileID: 4593184484909914552, guid: 2e1e9506f5904a64b81744324fb7cd50, type: 3}
+  groundY: 0
+  impactZonePrefab: {fileID: 3527489895738649734, guid: 6737b2b4a0031d749a45ab6489a9dfff, type: 3}
